@@ -1,0 +1,1 @@
+Procurement spend project with 2,000 invoices and supplier master. Notebook analyzes spend and exports charts.

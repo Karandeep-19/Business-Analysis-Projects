@@ -1,0 +1,4 @@
+test_id,feature,preconditions,steps,expected_result
+UAT-01,Requisition Creation,User logged in,Create requisition -> Submit,Requisition in Pending Approval
+UAT-02,Approval Workflow,Manager logged in,Approve requisition,Status moves to Approved
+UAT-03,KPI Dashboard,Data refreshed,Open dashboard,KPIs render without error

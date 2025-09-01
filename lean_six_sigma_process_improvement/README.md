@@ -1,0 +1,1 @@
+Lean Six Sigma analysis with statistical testing (t-test) and before/after datasets.

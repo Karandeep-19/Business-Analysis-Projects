@@ -1,0 +1,1 @@
+Full supply chain dashboard project with 1,000 realistic rows, KPI calculations, and visuals.
